@@ -26,7 +26,7 @@
 		</data>
 		<key>Frameworks/Starscream.framework/Starscream</key>
 		<data>
-		achXOnzkKQs4KRt/WfgbcuOAr5M=
+		1jcxLeFd1VW5vCvIG1vI2Iz6mIk=
 		</data>
 		<key>Frameworks/Starscream.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/Ottu.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		+99T2CrsnBClkytDHBsxI0zq+WA=
+		ENre2SdJ9QpGU9SiFGzP7zu9GaE=
 		</data>
 		<key>Modules/Ottu.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		+99T2CrsnBClkytDHBsxI0zq+WA=
+		ENre2SdJ9QpGU9SiFGzP7zu9GaE=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		BaOtv3yqy4cWi87nOuZ2PjKEEVc=
+		E7/5tDAp9jShFp8WWukUVQO72wU=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		BaOtv3yqy4cWi87nOuZ2PjKEEVc=
+		E7/5tDAp9jShFp8WWukUVQO72wU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -198,7 +198,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VFg+nyM7uQ5ijzVrzteaLDdcSPi4GROrZsvU0PnsbuU=
+			moBc5mFU9WT9bU15fp+3eahh1ms/b+B837r/+8V6/Ok=
 			</data>
 		</dict>
 		<key>Frameworks/Starscream.framework/_CodeSignature/CodeResources</key>
@@ -233,14 +233,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/iXef5kxky3Ji45L+9CZhqhrbU8SIFmeCktQT/xd9EU=
+			n3HEJUVGE8JymjFVZezJGBhcj5FCpckrnViDvfho6So=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/iXef5kxky3Ji45L+9CZhqhrbU8SIFmeCktQT/xd9EU=
+			n3HEJUVGE8JymjFVZezJGBhcj5FCpckrnViDvfho6So=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -254,7 +254,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pTvaOy8uMbORus5jVwUy3FinF3yISvTyGMRZzJr2vrw=
+			5uRB6CUVncQTsG59wf74Efy2EIHA4AQIRjHyvcGSN2o=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftdoc</key>
@@ -268,7 +268,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pTvaOy8uMbORus5jVwUy3FinF3yISvTyGMRZzJr2vrw=
+			5uRB6CUVncQTsG59wf74Efy2EIHA4AQIRjHyvcGSN2o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/Starscream.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		d4kWV8O1XKO1LN1yyovZ4gHCUPI=
+		ZZg9z4qaAN27nAWiMK4YKVBE6cQ=
 		</data>
 		<key>Modules/Starscream.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		d4kWV8O1XKO1LN1yyovZ4gHCUPI=
+		ZZg9z4qaAN27nAWiMK4YKVBE6cQ=
 		</data>
 		<key>Modules/Starscream.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/Starscream.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		mf/jMmTZjsa6+0x5YE/p/WHkArY=
+		7lyrrR4L/lfsadBWeHKkYvpZB6A=
 		</data>
 		<key>Modules/Starscream.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/Starscream.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		mf/jMmTZjsa6+0x5YE/p/WHkArY=
+		7lyrrR4L/lfsadBWeHKkYvpZB6A=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -73,22 +73,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			d4kWV8O1XKO1LN1yyovZ4gHCUPI=
+			ZZg9z4qaAN27nAWiMK4YKVBE6cQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			1d99Zp/er1sQdJI5uDip5tPUEaw+ahK/Xpj4LlEG5nI=
+			DCzP1x1h0E1nWGYeLuti7fPQlKu54fY5hyfRhFpyBfg=
 			</data>
 		</dict>
 		<key>Modules/Starscream.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			d4kWV8O1XKO1LN1yyovZ4gHCUPI=
+			ZZg9z4qaAN27nAWiMK4YKVBE6cQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			1d99Zp/er1sQdJI5uDip5tPUEaw+ahK/Xpj4LlEG5nI=
+			DCzP1x1h0E1nWGYeLuti7fPQlKu54fY5hyfRhFpyBfg=
 			</data>
 		</dict>
 		<key>Modules/Starscream.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -106,11 +106,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mf/jMmTZjsa6+0x5YE/p/WHkArY=
+			7lyrrR4L/lfsadBWeHKkYvpZB6A=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y+i3HlZGppBd+7suo5etNCo0LSL05FMUL333gpEBZvM=
+			bjup7/DiHztt451sm6gSx4UWIhjIBCNFD7V+gT3QyOA=
 			</data>
 		</dict>
 		<key>Modules/Starscream.swiftmodule/x86_64.swiftdoc</key>
@@ -128,11 +128,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mf/jMmTZjsa6+0x5YE/p/WHkArY=
+			7lyrrR4L/lfsadBWeHKkYvpZB6A=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y+i3HlZGppBd+7suo5etNCo0LSL05FMUL333gpEBZvM=
+			bjup7/DiHztt451sm6gSx4UWIhjIBCNFD7V+gT3QyOA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
