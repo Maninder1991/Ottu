@@ -26,7 +26,7 @@
 		</data>
 		<key>Frameworks/Starscream.framework/Starscream</key>
 		<data>
-		1jcxLeFd1VW5vCvIG1vI2Iz6mIk=
+		AVzCJhI7YMmbNsG9al9YitmKZK4=
 		</data>
 		<key>Frameworks/Starscream.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/Ottu.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		ENre2SdJ9QpGU9SiFGzP7zu9GaE=
+		3hI4O0MuF44aWHsOGvFxvGCboIw=
 		</data>
 		<key>Modules/Ottu.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		ENre2SdJ9QpGU9SiFGzP7zu9GaE=
+		3hI4O0MuF44aWHsOGvFxvGCboIw=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		E7/5tDAp9jShFp8WWukUVQO72wU=
+		8tj6JyOB0QCvplEMrk304ioNJ9U=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		E7/5tDAp9jShFp8WWukUVQO72wU=
+		8tj6JyOB0QCvplEMrk304ioNJ9U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>NewCardCell.nib</key>
 		<data>
-		qD9InTU8z1SDDzHDO5DB7we2M7s=
+		CD+sKhKY5LXzrxTpKRBaMF/9xDo=
 		</data>
 		<key>PaymentStatusVC.nib</key>
 		<data>
@@ -140,6 +140,10 @@
 		<data>
 		XaaxdVNH1bqaSZF2d092AmODHlA=
 		</data>
+		<key>info.png</key>
+		<data>
+		kw4t4JX1SvudRe4fF1HzXTBQHVQ=
+		</data>
 		<key>mastercard.png</key>
 		<data>
 		K51BIhnIu7a64wSoVfoKhPMrFQA=
@@ -198,7 +202,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			moBc5mFU9WT9bU15fp+3eahh1ms/b+B837r/+8V6/Ok=
+			O6ujgQ+zMk17L25BeOKm8zmC+ph2u5C4JoolkHyzh6c=
 			</data>
 		</dict>
 		<key>Frameworks/Starscream.framework/_CodeSignature/CodeResources</key>
@@ -233,14 +237,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n3HEJUVGE8JymjFVZezJGBhcj5FCpckrnViDvfho6So=
+			rXA/3QGABw4DvxwDqi+iPwI3q2oc54NdnuI4bBKTP+s=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n3HEJUVGE8JymjFVZezJGBhcj5FCpckrnViDvfho6So=
+			rXA/3QGABw4DvxwDqi+iPwI3q2oc54NdnuI4bBKTP+s=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -254,7 +258,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5uRB6CUVncQTsG59wf74Efy2EIHA4AQIRjHyvcGSN2o=
+			c4JzQGfNDK0/hKcBKmgo28OEfHTjYBF+JURtlGvUoXw=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftdoc</key>
@@ -268,7 +272,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5uRB6CUVncQTsG59wf74Efy2EIHA4AQIRjHyvcGSN2o=
+			c4JzQGfNDK0/hKcBKmgo28OEfHTjYBF+JURtlGvUoXw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -282,7 +286,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9w3bi2N/MXEfGy27mdTXdYcUzvK7R4RjULPlapCA5Mw=
+			gj9KZ0rmgYr14F51xMLWQNOTZ16/Ghc/N3dPJs5nPpE=
 			</data>
 		</dict>
 		<key>PaymentStatusVC.nib</key>
@@ -388,6 +392,13 @@
 			<key>hash2</key>
 			<data>
 			kbSbQ1yrrbuZxr+1idPsQulRK70MJgWEgwIU80P8Aao=
+			</data>
+		</dict>
+		<key>info.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4AeaFrn/6rx8049srB/IQeyyxdQKOmrdHv4Tf0fQ6RE=
 			</data>
 		</dict>
 		<key>mastercard.png</key>
