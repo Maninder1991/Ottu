@@ -20,25 +20,13 @@
 		<data>
 		/qFNTog3Xwo8CXOEQBNoVkrccXU=
 		</data>
-		<key>Frameworks/Starscream.framework/Info.plist</key>
-		<data>
-		RUbutDlIxj0AhxZzRE9nuD0sBKw=
-		</data>
-		<key>Frameworks/Starscream.framework/Starscream</key>
-		<data>
-		xWm97JbPZay6ENvo4I6OkHIjzWA=
-		</data>
-		<key>Frameworks/Starscream.framework/_CodeSignature/CodeResources</key>
-		<data>
-		fFm0dns1jG0wl5RXWCnEhnKssQs=
-		</data>
 		<key>HeaderCell.nib</key>
 		<data>
 		Yk+feI+0X641lfwkAQfpwYfs7P8=
 		</data>
 		<key>Headers/Ottu-Swift.h</key>
 		<data>
-		3noad9l5VMBJGJ550vCdKFY+5R4=
+		r26SOGNOq7t3UDe5hj/ZzwJDR3g=
 		</data>
 		<key>Headers/Ottu.h</key>
 		<data>
@@ -50,27 +38,27 @@
 		</data>
 		<key>Modules/Ottu.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		2DrGqm9a70fq/ZC7kZpXdikFyos=
+		r1gNNj3tcPBQ0DUmVmRTnkLf6v0=
 		</data>
 		<key>Modules/Ottu.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		2DrGqm9a70fq/ZC7kZpXdikFyos=
+		r1gNNj3tcPBQ0DUmVmRTnkLf6v0=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Ev36Mo19YfokSQG8XJwcJV4hAzY=
+		Ew+E6UyZ1mY+i0VJl3kYwoY+Hfg=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0yK4PA31XZsCDkLSR9nQZ5XbIqM=
+		V0M+MTHPhy5FwKoIHBTGA7NpCI4=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		Ev36Mo19YfokSQG8XJwcJV4hAzY=
+		Ew+E6UyZ1mY+i0VJl3kYwoY+Hfg=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		0yK4PA31XZsCDkLSR9nQZ5XbIqM=
+		V0M+MTHPhy5FwKoIHBTGA7NpCI4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -191,27 +179,6 @@
 			0SsMUErS3jruKSxwp48Q6XlCgZuW+2NWal1Q5mrpqqY=
 			</data>
 		</dict>
-		<key>Frameworks/Starscream.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IzJ/pLFBRAZMpsN1nm55bzcKj/+hPSkytW3PJz7Wo5c=
-			</data>
-		</dict>
-		<key>Frameworks/Starscream.framework/Starscream</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+MiYaDuZFivADbmKABmoDX7xGnvlIbmPu6lX3R/UbMQ=
-			</data>
-		</dict>
-		<key>Frameworks/Starscream.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dA2mNngRqB6eIo7IZ6xskxuaOBh60wWwtO1qgR7wIjU=
-			</data>
-		</dict>
 		<key>HeaderCell.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -223,7 +190,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O4KR1ERU27r4msSfptYtBMthJqhWPvmE2aAe/AK8ITA=
+			WzQyLPZYCPeBIUbyPVu8GA1dU+yrspepiAN+/8gvUag=
 			</data>
 		</dict>
 		<key>Headers/Ottu.h</key>
@@ -237,42 +204,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OuKlep7yTzCmyCIZhh49lMUNOEgoQ8033xXNS/juxyk=
+			/qqMeU89FuvGp6N+sYFfQa8oYr06Uzoxcgc15UjKU94=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OuKlep7yTzCmyCIZhh49lMUNOEgoQ8033xXNS/juxyk=
+			/qqMeU89FuvGp6N+sYFfQa8oYr06Uzoxcgc15UjKU94=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S9stqo4DErXzp+5Ee43RmGONs4wCqDaXc0MiUXx7xpo=
+			qS1sGkqt7vQ9n5PR+wdjR2G0lrkWOOJ5gDE+GL7HEHs=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VT3gBCdfUboVlrI5femDi7Xri5g4xIsMsAH4mToixVw=
+			sQ8FfW3Raoex7djXyLgQ8f2WDqm8UJ2SJ5ieYK1Eelg=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S9stqo4DErXzp+5Ee43RmGONs4wCqDaXc0MiUXx7xpo=
+			qS1sGkqt7vQ9n5PR+wdjR2G0lrkWOOJ5gDE+GL7HEHs=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VT3gBCdfUboVlrI5femDi7Xri5g4xIsMsAH4mToixVw=
+			sQ8FfW3Raoex7djXyLgQ8f2WDqm8UJ2SJ5ieYK1Eelg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
