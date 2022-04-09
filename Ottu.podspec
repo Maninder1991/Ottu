@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name         = "Ottu"
-    s.version      = "1.0.5"
+    s.version      = "1.0.6"
     s.summary      = "A brief description of Ottu project."
     s.description  = <<-DESC
     An extended description of Ottu project.
