@@ -23,11 +23,14 @@ public enum NetworkErrorReason : Swift.Error {
   case UnAuthorizedAccess
   case Other
 }
+public protocol Check_JB : AnyObject {
+  func sendTheStatusOfJailBreak(value: Swift.Bool)
+}
 public protocol OttuDelegate {
   func success()
   func fail(_ message: Swift.String)
 }
 public class Ottu {
-  public init(_ sessionId: Swift.String, merchantId: Swift.String, viewController: UIKit.UIViewController, delegate: OttuDelegate)
+  public init(_ sessionId: Swift.String, merchantId: Swift.String, viewController: UIKit.UIViewController, delegate: OttuDelegate, logoUrl: Swift.String?)
   @objc deinit
 }

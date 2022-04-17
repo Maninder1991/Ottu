@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		vGAgowCRVwSpE3D/A1+uT4pC758=
+		sGcxAjjimG7Qn8IdTsKds1NehNM=
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		MssQWDfEamwJsLCkVxwAOT3M4+k=
+		v0IsvKEwTuz40W0RD9E0O2uLDOI=
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		vGAgowCRVwSpE3D/A1+uT4pC758=
+		sGcxAjjimG7Qn8IdTsKds1NehNM=
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		MssQWDfEamwJsLCkVxwAOT3M4+k=
+		v0IsvKEwTuz40W0RD9E0O2uLDOI=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -66,11 +66,11 @@
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		mbYRaYnVD16lstqnWTrvk9twn+Q=
+		NO92b93hAKo7WGb7fvYmwgvWeak=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		orc3KnUNnMizyH8wPZxACk/WbS8=
+		6ui0/L4fauNgW90w0YWnlUJOsOQ=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -78,11 +78,11 @@
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		mbYRaYnVD16lstqnWTrvk9twn+Q=
+		NO92b93hAKo7WGb7fvYmwgvWeak=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		orc3KnUNnMizyH8wPZxACk/WbS8=
+		6ui0/L4fauNgW90w0YWnlUJOsOQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>PaymentVC.nib</key>
 		<data>
-		Og30tOg+xsV/heMExIod1t3tRNI=
+		UOzbNLA8SVp29lKiDoyFOEnzTXM=
 		</data>
 		<key>WebView.nib</key>
 		<data>
@@ -148,6 +148,14 @@
 		<data>
 		4D0hrHJdKDTYLm6IEBlb9njroyQ=
 		</data>
+		<key>diners.png</key>
+		<data>
+		2+Gfq1sdc6/i1AqY9CMjLaxPttE=
+		</data>
+		<key>discover.png</key>
+		<data>
+		W0iZQ2/Fv6YqTxGWWl04k76/5Qg=
+		</data>
 		<key>fail.png</key>
 		<data>
 		XaaxdVNH1bqaSZF2d092AmODHlA=
@@ -155,6 +163,10 @@
 		<key>info.png</key>
 		<data>
 		kw4t4JX1SvudRe4fF1HzXTBQHVQ=
+		</data>
+		<key>jcb.png</key>
+		<data>
+		VcxnBd6R2g0mxAw/jojby4XMdP0=
 		</data>
 		<key>mastercard.png</key>
 		<data>
@@ -235,14 +247,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YBJh4RcJtu2pp19rcbOlWIxKA88QGCfSjKeyiNlI2T8=
+			KIbqkb4YRXXkmhNFU0ivuXgwcydq6iCJ2/chvujLb04=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SJ9PLv1mq7JtOO1/2SvtKvIZmU07P4heYAST6Ii+ItM=
+			N9avM75vZqcIie2FQgfsR/RORuYXL80p1tw4RqKWi8w=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftdoc</key>
@@ -256,14 +268,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YBJh4RcJtu2pp19rcbOlWIxKA88QGCfSjKeyiNlI2T8=
+			KIbqkb4YRXXkmhNFU0ivuXgwcydq6iCJ2/chvujLb04=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SJ9PLv1mq7JtOO1/2SvtKvIZmU07P4heYAST6Ii+ItM=
+			N9avM75vZqcIie2FQgfsR/RORuYXL80p1tw4RqKWi8w=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -277,14 +289,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dIex8ixCAM+TvmX5pJJWAIWLHdTPjXE8K7fnMRfbxoo=
+			ICAuhTnCTJwk+5v4eUN0hxITtede+igN3n/GEkIkLZ0=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fODj9XZhu/5WpP0F6desPNodTH1hTI5x8UXoSlgH+sg=
+			UhjW3ZV3V9F2OC/29VeDovAvcwsJ10h3D7KTJ2F0uMk=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftdoc</key>
@@ -298,14 +310,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dIex8ixCAM+TvmX5pJJWAIWLHdTPjXE8K7fnMRfbxoo=
+			ICAuhTnCTJwk+5v4eUN0hxITtede+igN3n/GEkIkLZ0=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fODj9XZhu/5WpP0F6desPNodTH1hTI5x8UXoSlgH+sg=
+			UhjW3ZV3V9F2OC/29VeDovAvcwsJ10h3D7KTJ2F0uMk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -333,7 +345,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tPLN7vucCwtpS+PrV5Yq61rg7DyBn2zHqa24tqkM/XU=
+			S0QQ8qf1BPMok0wV6Lj4WOkEy+7haYOmNtWx5i/zOFE=
 			</data>
 		</dict>
 		<key>WebView.nib</key>
@@ -420,6 +432,20 @@
 			TUptRCX5/GA01MhyQzH3FJ/3QyFckROzssHiwYbZQeA=
 			</data>
 		</dict>
+		<key>diners.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sIYalO1dnd+aqpXHcUQrOJGO+yMM/V7zr0DefGmkJSQ=
+			</data>
+		</dict>
+		<key>discover.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MTCM2mS2DubUlIoHhmghV9KluPfqzAdv+6v8yCBVoMs=
+			</data>
+		</dict>
 		<key>fail.png</key>
 		<dict>
 			<key>hash2</key>
@@ -432,6 +458,13 @@
 			<key>hash2</key>
 			<data>
 			4AeaFrn/6rx8049srB/IQeyyxdQKOmrdHv4Tf0fQ6RE=
+			</data>
+		</dict>
+		<key>jcb.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Mhz+0AZEiZDgG4FnnX3qJi4CrHmhExLTV2BiXCOWYwM=
 			</data>
 		</dict>
 		<key>mastercard.png</key>
