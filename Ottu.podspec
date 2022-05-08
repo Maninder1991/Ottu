@@ -8,15 +8,24 @@
 
 Pod::Spec.new do |s|
     s.name         = "Ottu"
-    s.version      = "1.0.6"
-    s.summary      = "A brief description of Ottu project."
+    s.version      = "1.0.8"
+    s.summary      = "The Ottu iOS SDK makes it quick and easy to build an excellent payment experience in your iOS app. We provide powerful and customizable UI screens and elements that can be used out-of-the-box to collect your user's payment details. We also expose the low-level APIs that power those UIs so that you can build fully custom experiences."
     s.description  = <<-DESC
-    An extended description of Ottu project.
+    ## Features
+
+**Simplified security**: We make it simple for you to collect sensitive data such as credit card numbers and remain [PCI compliant](). This means the sensitive data is sent directly to Stripe instead of passing through your server.
+
+**Apple Pay**: We provide a [seamless integration with Apple Pay]().
+
+**SCA-ready**: The SDK automatically performs native [3D Secure authentication]() if needed to comply with [Strong Customer Authentication]() regulation in Europe.
+
+**Native UI**: We provide native screens and elements to collect payment details. For example, [PaymentSheet]() is a prebuilt UI that combines all the steps required to pay - collecting payment details, billing details, and confirming the payment - into a single sheet that displays on top of your app.
+
     DESC
     s.homepage     = "https://github.com/Maninder1991/Ottu"
     s.license = { :type => 'Copyright', :text => <<-LICENSE
                    Copyright 2020
-                   Permission is granted to...
+                   Permission is granted to Ottu
                   LICENSE
                 }
     s.author             = { "Maninder" => "er.maninderbindra@gmail.com" }
