@@ -8,15 +8,6 @@ import Swift
 import UIKit
 import WebKit
 import _Concurrency
-@objc @_inheritsConvenienceInitializers @IBDesignable @_Concurrency.MainActor(unsafe) public class Gradient : UIKit.UIView {
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public class var layerClass: Swift.AnyClass {
-    @_Concurrency.MainActor(unsafe) @objc get
-  }
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func traitCollectionDidChange(_ previousTraitCollection: UIKit.UITraitCollection?)
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreGraphics.CGRect)
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
-  @objc deinit
-}
 public enum NetworkErrorReason : Swift.Error {
   case FailureErrorCode(code: Swift.Int, message: Swift.String, userInfo: [Swift.String : Any]?)
   case InternetNotReachable
@@ -27,10 +18,10 @@ public protocol Check_JB : AnyObject {
   func sendTheStatusOfJailBreak(value: Swift.Bool)
 }
 public protocol OttuDelegate {
-  func success()
-  func fail(_ message: Swift.String)
+  func success(_ message: Swift.String, response: [Swift.String : Any]?)
+  func fail(_ message: Swift.String, response: [Swift.String : Any]?)
 }
 public class Ottu {
-  public init(_ sessionId: Swift.String, merchantId: Swift.String, viewController: UIKit.UIViewController, delegate: Ottu.OttuDelegate, logoUrl: Swift.String?)
+  public init(_ sessionId: Swift.String, merchantId: Swift.String, viewController: UIKit.UIViewController, delegate: Ottu.OttuDelegate, language: Swift.String)
   @objc deinit
 }

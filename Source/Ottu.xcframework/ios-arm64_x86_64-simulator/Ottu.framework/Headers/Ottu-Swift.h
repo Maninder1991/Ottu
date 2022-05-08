@@ -190,8 +190,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import CoreGraphics;
-@import UIKit;
 #endif
 
 #pragma clang diagnostic ignored "-Wproperty-attribute-mismatch"
@@ -209,18 +207,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma pop_macro("any")
 #endif
 
-@class UITraitCollection;
-@class NSCoder;
 
-IB_DESIGNABLE
-SWIFT_CLASS("_TtC4Ottu8Gradient")
-@interface Gradient : UIView
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) Class _Nonnull layerClass;)
-+ (Class _Nonnull)layerClass SWIFT_WARN_UNUSED_RESULT;
-- (void)traitCollectionDidChange:(UITraitCollection * _Nullable)previousTraitCollection;
-- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
-@end
 
 
 
@@ -423,8 +410,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import CoreGraphics;
-@import UIKit;
 #endif
 
 #pragma clang diagnostic ignored "-Wproperty-attribute-mismatch"
@@ -442,18 +427,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma pop_macro("any")
 #endif
 
-@class UITraitCollection;
-@class NSCoder;
 
-IB_DESIGNABLE
-SWIFT_CLASS("_TtC4Ottu8Gradient")
-@interface Gradient : UIView
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) Class _Nonnull layerClass;)
-+ (Class _Nonnull)layerClass SWIFT_WARN_UNUSED_RESULT;
-- (void)traitCollectionDidChange:(UITraitCollection * _Nullable)previousTraitCollection;
-- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
-@end
 
 
 

@@ -4,29 +4,29 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Apple_Pay_logo.png</key>
+		<data>
+		W7/jx0TFObPiHI4SHfBvG88Tbwo=
+		</data>
 		<key>CardCell.nib</key>
 		<data>
-		4mIkeoa1e4RN3ISvD/Sjvv2SHRo=
+		QBX3ADq4PYXUMPC0CT7WRQ0AO2Y=
 		</data>
 		<key>CheckSessionVC.nib</key>
 		<data>
-		j3p0WjSwr8Z6gS+/h9/V7DsJlrk=
+		5tQU1W2UP1bocbgW41SyCt7e+IE=
 		</data>
 		<key>CustomPopupVC.nib</key>
 		<data>
-		4N+U/iQJAsL06/SByNwQgvuHw68=
+		Ex31pOD9lPD3RitVutT6FAMV+L4=
 		</data>
 		<key>DeletePopupVC.nib</key>
 		<data>
-		/qFNTog3Xwo8CXOEQBNoVkrccXU=
-		</data>
-		<key>HeaderCell.nib</key>
-		<data>
-		Yk+feI+0X641lfwkAQfpwYfs7P8=
+		FMB3bVKXjnqoxs5b8eiB6g8hCdo=
 		</data>
 		<key>Headers/Ottu-Swift.h</key>
 		<data>
-		wHtcu1hzXVy+QuB6G2lPOg3v8qg=
+		PbWGMOb2x6Ts8UESgnb1QOCJ0hU=
 		</data>
 		<key>Headers/Ottu.h</key>
 		<data>
@@ -34,7 +34,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		1LmPVqPghtLdyD5pylo6GaOv25Q=
+		n8cQ+ESzq5JxJona027T0Bcp8zI=
+		</data>
+		<key>Mada.png</key>
+		<data>
+		8M6mWXQ2FMB83iGXxL2R6XeWgR0=
+		</data>
+		<key>Maestro.png</key>
+		<data>
+		7ka6LLHhgGW63G5NyCd+HA2k6vY=
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -42,11 +50,11 @@
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		sGcxAjjimG7Qn8IdTsKds1NehNM=
+		OZ1nYk2CoGoUsYBum/xCKJEuwT8=
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		v0IsvKEwTuz40W0RD9E0O2uLDOI=
+		EgSuPwnhnU+JtAoUmsGC6wvf+X0=
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -54,11 +62,11 @@
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		sGcxAjjimG7Qn8IdTsKds1NehNM=
+		OZ1nYk2CoGoUsYBum/xCKJEuwT8=
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		v0IsvKEwTuz40W0RD9E0O2uLDOI=
+		EgSuPwnhnU+JtAoUmsGC6wvf+X0=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -66,11 +74,11 @@
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		NO92b93hAKo7WGb7fvYmwgvWeak=
+		MB/WcMTVis4IWDavtccJTWvVf4o=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6ui0/L4fauNgW90w0YWnlUJOsOQ=
+		nDyvDUIEWiGqdr4rLYBlatn8Xtg=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -78,11 +86,11 @@
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		NO92b93hAKo7WGb7fvYmwgvWeak=
+		MB/WcMTVis4IWDavtccJTWvVf4o=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		6ui0/L4fauNgW90w0YWnlUJOsOQ=
+		nDyvDUIEWiGqdr4rLYBlatn8Xtg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -90,39 +98,76 @@
 		</data>
 		<key>NewCardCell.nib</key>
 		<data>
-		CD+sKhKY5LXzrxTpKRBaMF/9xDo=
+		uOsRHX+WlCfh1co2+78lDJjJB4M=
 		</data>
 		<key>PaymentStatusVC.nib</key>
 		<data>
-		FWAMNDTEKcHjzB4ah0FtNvT/aCk=
+		2v2gW3Kg6RSvXMGS/hszIifUxD4=
 		</data>
 		<key>PaymentVC.nib</key>
 		<data>
-		UOzbNLA8SVp29lKiDoyFOEnzTXM=
+		NlEgnyVOA+fseANHVRC7tPYYusY=
+		</data>
+		<key>SF-Pro-Text-Bold.otf</key>
+		<data>
+		w2LYIOMgRubQHyOWcWM+XhpthMM=
+		</data>
+		<key>SF-Pro-Text-Medium.otf</key>
+		<data>
+		2UbBlEz7Y4z9QoIk3ngQNHiKftc=
+		</data>
+		<key>SF-Pro-Text-Regular.otf</key>
+		<data>
+		bBsMkaMH6n9c3mCxb6qrkWU4VYU=
+		</data>
+		<key>SF-Pro-Text-Semibold.otf</key>
+		<data>
+		CHID6TzADuyoprEbwmRh2pTGZWU=
 		</data>
 		<key>WebView.nib</key>
 		<data>
-		e5qKGvt6839Z0fDAn7midelwanw=
+		DwwKofu87QK2Yhey0n0+pEXQQCI=
 		</data>
 		<key>WebViewWithSocket.nib</key>
 		<data>
-		WN0C0v9bSKk9RoByNljwBhS2vf0=
+		wMFf5ATW1ZuJo1MhwQukRpAckAY=
 		</data>
 		<key>amex.png</key>
 		<data>
-		t5ft58yLil7gvE9QWJDO8j3Y7oE=
+		UA8vKk8XNaXdF8Re34s9YDWMLO8=
 		</data>
-		<key>arrow.png</key>
+		<key>apple.png</key>
 		<data>
-		Mlnmf34FK375euHm2L8w521AQmo=
+		oGNXHCm5EVuhj7M5X+NYDozujrI=
+		</data>
+		<key>ar.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tin4jJHttRI7xV9QMZrmqSlq3hk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>arrowdown.png</key>
+		<data>
+		HTmpAYEQyYkDjEYsjVcUNWwWK2g=
 		</data>
 		<key>arrowleft.png</key>
 		<data>
-		4tmk7xIn9b9WxAEEkItdU8+2EZ8=
+		smy39rgqXal5tK+XflRCdCMy70A=
 		</data>
 		<key>arrowright.png</key>
 		<data>
-		lOgwADM5vZVKHGEDvszCm8Tlnhg=
+		KPOONRJ6HWNll9xvtm7Zd6/mSYY=
+		</data>
+		<key>backleft.png</key>
+		<data>
+		Pz0YcyNhGKRFj5iZIzwx2w+xgag=
+		</data>
+		<key>backright.png</key>
+		<data>
+		q2boAGO0LylvhSkugYkjWJHXNsw=
 		</data>
 		<key>bin.png</key>
 		<data>
@@ -130,11 +175,11 @@
 		</data>
 		<key>calendar.png</key>
 		<data>
-		JFFZZqG7i3nqEUadB2pFW9qaPms=
+		i7mmbWx/22oRWVdOJiUw/MpNb7I=
 		</data>
 		<key>cardNumber.png</key>
 		<data>
-		Oxl7nQiYz0kSdNgbotksOpobJms=
+		Qi20RGC7KTlFX9XVqClJ/sLpUXY=
 		</data>
 		<key>check-box.png</key>
 		<data>
@@ -142,35 +187,48 @@
 		</data>
 		<key>credit-card.png</key>
 		<data>
-		llsnJqi5jC978VS/aHfbyiNSzt0=
+		5gomWSdjzxWGUTsEg9vhuyRWGyE=
 		</data>
 		<key>cvv.png</key>
 		<data>
-		4D0hrHJdKDTYLm6IEBlb9njroyQ=
+		tsBzo/dbrzkXPmt/d7lm+fheENc=
 		</data>
 		<key>diners.png</key>
 		<data>
-		2+Gfq1sdc6/i1AqY9CMjLaxPttE=
+		uVAUQsuzUsl54xbWL2483rGl4Q4=
 		</data>
 		<key>discover.png</key>
 		<data>
-		W0iZQ2/Fv6YqTxGWWl04k76/5Qg=
+		zh/as5aKKIkMVLgbAjU8iW6GES0=
 		</data>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zmV6UqBSo6r1NOz798vd5O4zTBA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>fail.png</key>
 		<data>
-		XaaxdVNH1bqaSZF2d092AmODHlA=
+		R2s2I23GErsO1mg5RriOD6WfAcc=
 		</data>
 		<key>info.png</key>
 		<data>
-		kw4t4JX1SvudRe4fF1HzXTBQHVQ=
+		IloMayGsnyn66GaHgDC3vh4gttw=
 		</data>
 		<key>jcb.png</key>
 		<data>
-		VcxnBd6R2g0mxAw/jojby4XMdP0=
+		syw68B5pbqO0v0j7l1t/ag2xeV0=
 		</data>
 		<key>mastercard.png</key>
 		<data>
-		K51BIhnIu7a64wSoVfoKhPMrFQA=
+		1wcHdZBhkiTYqmwGFfuojTAQsBk=
+		</data>
+		<key>rupay.png</key>
+		<data>
+		ESjA/x99JIlDANaZScWu8lvfmR4=
 		</data>
 		<key>square.png</key>
 		<data>
@@ -178,55 +236,59 @@
 		</data>
 		<key>success.png</key>
 		<data>
-		8A+tWdMDUCKZdUBDF0XxUTZEVsg=
+		B2z4V8fJmuKo/adalwSFZU4E5So=
+		</data>
+		<key>union.png</key>
+		<data>
+		nNfEM92mrVjDS4QKkqzLi50CAlE=
 		</data>
 		<key>visa.png</key>
 		<data>
-		Zh4X8IusFfG3r6Qxm8sEdn0rjw0=
+		CF4rTEeyrMFakhiO+7t5YUa2l3E=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Apple_Pay_logo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			v2pYfAboIc1DZO5d59ElyzkHOcNUhCzOp+eo5MgWTTc=
+			</data>
+		</dict>
 		<key>CardCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3RbkKion2VWHrryYVA31YvkctbEzfJR+oh2ZsjTkp24=
+			+UsktL8rt5rr303OjWOtY5Nz+33ANw+HJMhwWnmKYKI=
 			</data>
 		</dict>
 		<key>CheckSessionVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JUaq2iYhZJOR9KRPZZ5TUoeYbW6VriKq4bIsx7yuttU=
+			ei4fKwKqq0GVHEHU/MO31ypL7DRurX2ooRC9H1xTmVY=
 			</data>
 		</dict>
 		<key>CustomPopupVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ljlAIp0YQEp3XB8XdmK5k2r96TyDu2WCfDeF/D50UtY=
+			bxloe+fhRWjio2bJbdaOE//wz7rzkpPgQfhRmSId+n8=
 			</data>
 		</dict>
 		<key>DeletePopupVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0SsMUErS3jruKSxwp48Q6XlCgZuW+2NWal1Q5mrpqqY=
-			</data>
-		</dict>
-		<key>HeaderCell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JZClsMAfOl5GaZEhnsguGJoXTxbQBFgTPOLXzBtD0F0=
+			hu5W1BsYZIuXgcCSXSU61Lpo6cI4KmdQEo71Vc5NiXg=
 			</data>
 		</dict>
 		<key>Headers/Ottu-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BzZVv/TAXl6KKN2m52dGMy7PR2lFAZ8j2oY++330tfo=
+			+zOUzn7JNNN5VS6f2/9kzDny2/NN/c5Y+jtAO8vEY3U=
 			</data>
 		</dict>
 		<key>Headers/Ottu.h</key>
@@ -236,6 +298,20 @@
 			PEXJCdM5DPndNytPhmIwUq2ZAWdBZQ7TA7rB0R99bqE=
 			</data>
 		</dict>
+		<key>Mada.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2Sp25uKdxaDjK8DTTZ+4cFfr08SoGJpfWkrI5WLHgaU=
+			</data>
+		</dict>
+		<key>Maestro.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oT6/VYQCb+uTD/B126mFX3mNPUfYAT9bHWiCf2IStKs=
+			</data>
+		</dict>
 		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
@@ -247,14 +323,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KIbqkb4YRXXkmhNFU0ivuXgwcydq6iCJ2/chvujLb04=
+			n4yzveWQ2Ux6OP2gQP7iF/Mh9COFU2mzzAYIxgbqqeA=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N9avM75vZqcIie2FQgfsR/RORuYXL80p1tw4RqKWi8w=
+			ngVsIWmSXwaT78SjGD1ohrKWaHuKnJIofwTMNKraCBw=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftdoc</key>
@@ -268,14 +344,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KIbqkb4YRXXkmhNFU0ivuXgwcydq6iCJ2/chvujLb04=
+			n4yzveWQ2Ux6OP2gQP7iF/Mh9COFU2mzzAYIxgbqqeA=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N9avM75vZqcIie2FQgfsR/RORuYXL80p1tw4RqKWi8w=
+			ngVsIWmSXwaT78SjGD1ohrKWaHuKnJIofwTMNKraCBw=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -289,14 +365,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ICAuhTnCTJwk+5v4eUN0hxITtede+igN3n/GEkIkLZ0=
+			WqgGNeLr3IyQl4wocKutrC9jZ+4ViI0ByOcHjLHevVY=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UhjW3ZV3V9F2OC/29VeDovAvcwsJ10h3D7KTJ2F0uMk=
+			XLXvVeB6qcWtG2TvdLwSi35pIMEMzuY3BY81p1qccYY=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftdoc</key>
@@ -310,14 +386,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ICAuhTnCTJwk+5v4eUN0hxITtede+igN3n/GEkIkLZ0=
+			WqgGNeLr3IyQl4wocKutrC9jZ+4ViI0ByOcHjLHevVY=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UhjW3ZV3V9F2OC/29VeDovAvcwsJ10h3D7KTJ2F0uMk=
+			XLXvVeB6qcWtG2TvdLwSi35pIMEMzuY3BY81p1qccYY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -331,63 +407,121 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gj9KZ0rmgYr14F51xMLWQNOTZ16/Ghc/N3dPJs5nPpE=
+			j8Bq3+Eny+biXOgTPiIuf9tmzOXOC3Cw2tCZ7HkzGeI=
 			</data>
 		</dict>
 		<key>PaymentStatusVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h8vkX/C5XrcOIjRZfuT5LU5rxIqrsQv4ZMLMpj/cvVY=
+			Ybg1Rnfnl56vDypjGNf2GCrGzmlYMNzZWlQ+F1yjKEQ=
 			</data>
 		</dict>
 		<key>PaymentVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S0QQ8qf1BPMok0wV6Lj4WOkEy+7haYOmNtWx5i/zOFE=
+			ro8rZFkV00AE547vGO0B3EpbZAHNCmWrsmVC2FrSfBk=
+			</data>
+		</dict>
+		<key>SF-Pro-Text-Bold.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/vfrZTkKQb3SR7ASoOAYdQr9UhQ8KYkrghpqV5ZRaso=
+			</data>
+		</dict>
+		<key>SF-Pro-Text-Medium.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kLNkfI0t/Iy7YiM6ApgtZjt0xtxuRQzRvn+3FLUzO1Q=
+			</data>
+		</dict>
+		<key>SF-Pro-Text-Regular.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ov0qyVxb/487oy8NZYZACUdnRznYV+c/TXtjlLCui3c=
+			</data>
+		</dict>
+		<key>SF-Pro-Text-Semibold.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FAlzQ7SVSOgQJrMo6Lm11QTAKXa4pMU74QtbRQXWt6w=
 			</data>
 		</dict>
 		<key>WebView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			l8D4JO1IHAiWeLXGSAL22H6eH3NaiLbyQ8SAZyDks/o=
+			V13Fqxfqciuxm+H/iGEgW25ExJd0rM+juIW8QJmJJDM=
 			</data>
 		</dict>
 		<key>WebViewWithSocket.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ThpZ2oc2P5zodbHySOLt3p+FSXMzFOIl2oGgHUi+SIo=
+			mNDdOxmtizH/oK71acNAmZygszc7uBpU7Ipm37XORlE=
 			</data>
 		</dict>
 		<key>amex.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BzcZbp/0Riq2zPSXdOqYz3hdJ/mlF8Fxo3BrlGt9w1I=
+			C8nl20zzS9ozl5lYD55t1Dm2hjFA6H2Wm5xBwD1PZfE=
 			</data>
 		</dict>
-		<key>arrow.png</key>
+		<key>apple.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oR+JE3QbheAiQ/je3n4PKrsoFRwTKGzw2edboZt0+SY=
+			6/QO33G/99snez8e8KhykS9T3t24XyuKZs2G+DCVQOw=
+			</data>
+		</dict>
+		<key>ar.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lxkoW0sAtmrsOfRzPu1X4nRAaii1bF4PpXmFfizRivw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>arrowdown.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8wggtv5RCLqbNKz9YgbgBsDOEI2XxhlEeC6rGJJ5vcY=
 			</data>
 		</dict>
 		<key>arrowleft.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eNkeDeYsLI7uQsRqBIC50NkHBVNZtZQ24VAOCSGfFbg=
+			cKvj+Y1Sv3CNomxru8adWZRyFuMI493uLd6Myp7qzH4=
 			</data>
 		</dict>
 		<key>arrowright.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZtbA+N92WOgqgP/Hqyq/74sDZ4bz+PoOqHULTgMhB3U=
+			F6TMwrGtEz+stM51GVng/DJZoggcnfCW4OM95THPO/U=
+			</data>
+		</dict>
+		<key>backleft.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ku0w/pdeH+P35XnJX3siYQ1YEpO9iESofGFGBWj0K0c=
+			</data>
+		</dict>
+		<key>backright.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			y/rNgqlarJ8aB08lsI/97GDSUpBtPKL32hk1u2P9TwI=
 			</data>
 		</dict>
 		<key>bin.png</key>
@@ -401,14 +535,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3FJA4VrrEI4NjSRNB9V05/GBzqVho84GULlYaIrSp30=
+			8O9O0egIIDOAOpn9wu57MHKX6tKrHZzyLhZDrgLodhw=
 			</data>
 		</dict>
 		<key>cardNumber.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CyL7LUamksIw5JVMxma2uAHzzyg5RtaDJNTgxV8deu8=
+			5H6D8kuoS404Th1F8YMD75Of2cJ37Pjx/LVpV9+XkyA=
 			</data>
 		</dict>
 		<key>check-box.png</key>
@@ -422,56 +556,72 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fTOAeZikw/V6/YYo/kkBbywmY6A+pIyUotJwEID0muI=
+			sVVUiohY79IfvNT6UxBO4f2C+oRtQgkSFZPb20c/+ms=
 			</data>
 		</dict>
 		<key>cvv.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TUptRCX5/GA01MhyQzH3FJ/3QyFckROzssHiwYbZQeA=
+			komr3iUt/Qixk2UcWvUpI5u6qC3iPGErwHiquYieLKs=
 			</data>
 		</dict>
 		<key>diners.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sIYalO1dnd+aqpXHcUQrOJGO+yMM/V7zr0DefGmkJSQ=
+			vkAg7pKXGH1yvf3111vIp+C5xz2YRMEgZp/CSK6cVNo=
 			</data>
 		</dict>
 		<key>discover.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MTCM2mS2DubUlIoHhmghV9KluPfqzAdv+6v8yCBVoMs=
+			crCbvmpz1/L2z8P+AY4l9lO1L8lWYfDH86BRg8v+yqg=
 			</data>
+		</dict>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kmHsztpgjvF0JW5f3HdMHm49z1M0CcG8OT1JDQHHE/E=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>fail.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kbSbQ1yrrbuZxr+1idPsQulRK70MJgWEgwIU80P8Aao=
+			8yTPoYqaUtd8vXcRnaC+pvn1HCuSTSrdJGSdb5bnjhc=
 			</data>
 		</dict>
 		<key>info.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4AeaFrn/6rx8049srB/IQeyyxdQKOmrdHv4Tf0fQ6RE=
+			Ub+1QdtM0nWx3DLFeYTBrOBb6DoyExb+26F8eEoJFNo=
 			</data>
 		</dict>
 		<key>jcb.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Mhz+0AZEiZDgG4FnnX3qJi4CrHmhExLTV2BiXCOWYwM=
+			uIq2vUgEXT6Ht08XSAjOu5FUrlAU9Nng9Pjv4p78+tY=
 			</data>
 		</dict>
 		<key>mastercard.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uHPJwSAiSfQsUbHc9/6AodXDGoSOjESJ1EfnQ5fLMUs=
+			d7nmPJKC0J5csNHp3UduoZlYutZvRrVPWF5j6wa7myw=
+			</data>
+		</dict>
+		<key>rupay.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ShJ0pGiROmvcuvJWsNMRRsuqEwdZINvs5z41fAzGizg=
 			</data>
 		</dict>
 		<key>square.png</key>
@@ -485,14 +635,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rmf+gYNQHPpL0dvawAFZkw5r7W34qzts1+L2Zqgp96A=
+			3e49QIRcKVAwQm2suHzbdbLai9Q90ifAk4EW2K+LnMk=
+			</data>
+		</dict>
+		<key>union.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DaAjw/tzBkfCqS4ZGXhY6v1/J/roPyIni2kiezig6V4=
 			</data>
 		</dict>
 		<key>visa.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GIhykJxxZiiRegRsANXTyUZEXd4zhq9xYiFxmXszmOI=
+			u7H+8QJjQDD53g9Ok0SstQGGoYlQRIOZ+zpaqErTLf4=
 			</data>
 		</dict>
 	</dict>
