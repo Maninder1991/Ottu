@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name         = "Ottu"
-    s.version      = "1.0.8"
+    s.version      = "1.0.9"
     s.summary      = "The Ottu iOS SDK makes it quick and easy to build an excellent payment experience in your iOS app. We provide powerful and customizable UI screens and elements that can be used out-of-the-box to collect your user's payment details. We also expose the low-level APIs that power those UIs so that you can build fully custom experiences."
     s.description  = <<-DESC
     ## Features
@@ -34,9 +34,10 @@ Pod::Spec.new do |s|
 
     s.platform = :ios
     s.swift_version = "5.0"
-    s.ios.deployment_target  = '12.0'
-s.static_framework = true
 
+    s.ios.deployment_target  = '12.0'
+    s.static_framework = true
+    s.dependency 'SkeletonView'
     s.user_target_xcconfig = {
       'SWIFT_INCLUDE_PATHS' => '"\$(PODS_ROOT)/Ottu/Ottu.xcframework"'
     }

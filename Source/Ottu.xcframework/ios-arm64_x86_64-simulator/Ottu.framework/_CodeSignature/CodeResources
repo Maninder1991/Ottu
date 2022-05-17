@@ -10,7 +10,7 @@
 		</data>
 		<key>CardCell.nib</key>
 		<data>
-		QBX3ADq4PYXUMPC0CT7WRQ0AO2Y=
+		/jcQxRRYEvBYqL6ZCbMASERRGBo=
 		</data>
 		<key>CheckSessionVC.nib</key>
 		<data>
@@ -22,11 +22,23 @@
 		</data>
 		<key>DeletePopupVC.nib</key>
 		<data>
-		FMB3bVKXjnqoxs5b8eiB6g8hCdo=
+		ScUapw8UTzemLY+L3c2IJH78LnU=
+		</data>
+		<key>Frameworks/SkeletonView.framework/Info.plist</key>
+		<data>
+		+yZiEPcYvyQu/hu4/XpY3+OLYnI=
+		</data>
+		<key>Frameworks/SkeletonView.framework/SkeletonView</key>
+		<data>
+		1qeBp4/Ji6N8HIJ1/1C3UpaGU4A=
+		</data>
+		<key>Frameworks/SkeletonView.framework/_CodeSignature/CodeResources</key>
+		<data>
+		P/8w7di3qX05zpK6imDwOPfvLZg=
 		</data>
 		<key>Headers/Ottu-Swift.h</key>
 		<data>
-		PbWGMOb2x6Ts8UESgnb1QOCJ0hU=
+		NRLHBLW3w7HoargXMfPCs0ogBtg=
 		</data>
 		<key>Headers/Ottu.h</key>
 		<data>
@@ -34,7 +46,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		n8cQ+ESzq5JxJona027T0Bcp8zI=
+		u0K5IzU4wsdm07DOf5ntFoQmTB0=
 		</data>
 		<key>Mada.png</key>
 		<data>
@@ -46,51 +58,51 @@
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		4ODlGnl6tOmxpEQlf3qW8+Zb/8g=
+		PCzJLMjgZ0SjQFgMUlq4Flr/ias=
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		OZ1nYk2CoGoUsYBum/xCKJEuwT8=
+		/us0aY5+okrq7Mt42H5hhXAxAxs=
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		EgSuPwnhnU+JtAoUmsGC6wvf+X0=
+		rqDKld6xiWcF/yhPK5j2U66jK/Q=
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		4ODlGnl6tOmxpEQlf3qW8+Zb/8g=
+		PCzJLMjgZ0SjQFgMUlq4Flr/ias=
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		OZ1nYk2CoGoUsYBum/xCKJEuwT8=
+		/us0aY5+okrq7Mt42H5hhXAxAxs=
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		EgSuPwnhnU+JtAoUmsGC6wvf+X0=
+		rqDKld6xiWcF/yhPK5j2U66jK/Q=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		LlCo/EKbpDiKZLBCgbu0BvN/0ak=
+		J53DrqlradXAGRPkNtPJsebNlGo=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		MB/WcMTVis4IWDavtccJTWvVf4o=
+		l6mC3PERIdLNY55al9yINWfLqWk=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		nDyvDUIEWiGqdr4rLYBlatn8Xtg=
+		UudvRWNKbxHgpOg8RnlCLqspMK8=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		LlCo/EKbpDiKZLBCgbu0BvN/0ak=
+		J53DrqlradXAGRPkNtPJsebNlGo=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		MB/WcMTVis4IWDavtccJTWvVf4o=
+		l6mC3PERIdLNY55al9yINWfLqWk=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		nDyvDUIEWiGqdr4rLYBlatn8Xtg=
+		UudvRWNKbxHgpOg8RnlCLqspMK8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -98,15 +110,15 @@
 		</data>
 		<key>NewCardCell.nib</key>
 		<data>
-		uOsRHX+WlCfh1co2+78lDJjJB4M=
+		2DOqIto7csBODXUkTB2ATixtEKI=
 		</data>
 		<key>PaymentStatusVC.nib</key>
 		<data>
-		2v2gW3Kg6RSvXMGS/hszIifUxD4=
+		GwFv6HuzpGzJqBKBsM2L7XEOX2Y=
 		</data>
 		<key>PaymentVC.nib</key>
 		<data>
-		NlEgnyVOA+fseANHVRC7tPYYusY=
+		ogBxIMZSZ3Un1HOY9G4VMvnnLPw=
 		</data>
 		<key>SF-Pro-Text-Bold.otf</key>
 		<data>
@@ -144,7 +156,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tin4jJHttRI7xV9QMZrmqSlq3hk=
+			sMFyX7ge0fmXmbQ8JepXQf16Kmg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -260,7 +272,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+UsktL8rt5rr303OjWOtY5Nz+33ANw+HJMhwWnmKYKI=
+			zh6iF0Y5hnUfi2abTrddz7G3HeZmSH4sMTFOb9h0yQU=
 			</data>
 		</dict>
 		<key>CheckSessionVC.nib</key>
@@ -281,14 +293,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hu5W1BsYZIuXgcCSXSU61Lpo6cI4KmdQEo71Vc5NiXg=
+			Ae6NUmTt3ngRifROrQcdkoGx9GROA95GHg0n39+vL6I=
+			</data>
+		</dict>
+		<key>Frameworks/SkeletonView.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Yp5HqC2YCA2cCzRQvdj01LRLH1QI+E7FCdurpr8mm5c=
+			</data>
+		</dict>
+		<key>Frameworks/SkeletonView.framework/SkeletonView</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ECNd3A97hoRCEqSvZAEXcow3joUl8Kschc/QbLNHqDM=
+			</data>
+		</dict>
+		<key>Frameworks/SkeletonView.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			O006Fa8Rmdvvni9oMr69wfvbyecoTloBFRYZXtJfx0M=
 			</data>
 		</dict>
 		<key>Headers/Ottu-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+zOUzn7JNNN5VS6f2/9kzDny2/NN/c5Y+jtAO8vEY3U=
+			B8IhwAwKne3I05GYWrv8FSwlHKVLX+cYs+xRvLjZCfQ=
 			</data>
 		</dict>
 		<key>Headers/Ottu.h</key>
@@ -316,84 +349,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O8xx5RYv7u/C6vecvoSui7DcwS8QmUAB0H23uFdda7k=
+			sTuJkmQG2ZY1kvB8t2ws8SHjYNK72L6dDw+opMpDLI0=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n4yzveWQ2Ux6OP2gQP7iF/Mh9COFU2mzzAYIxgbqqeA=
+			b6EfRwe9/yau7QuIhABRSQaUlE8zKOqLIFZZ3gVfisA=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ngVsIWmSXwaT78SjGD1ohrKWaHuKnJIofwTMNKraCBw=
+			wbvCKpq8NTLqajSJbOnLxbpWKYaF/0lHC7iSUyAFLLM=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O8xx5RYv7u/C6vecvoSui7DcwS8QmUAB0H23uFdda7k=
+			sTuJkmQG2ZY1kvB8t2ws8SHjYNK72L6dDw+opMpDLI0=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n4yzveWQ2Ux6OP2gQP7iF/Mh9COFU2mzzAYIxgbqqeA=
+			b6EfRwe9/yau7QuIhABRSQaUlE8zKOqLIFZZ3gVfisA=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ngVsIWmSXwaT78SjGD1ohrKWaHuKnJIofwTMNKraCBw=
+			wbvCKpq8NTLqajSJbOnLxbpWKYaF/0lHC7iSUyAFLLM=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OoquNigDf+ppm+Ol7r2jC8vp3hhSM/zJ1JIIiWkQZ0g=
+			IsoWnCiAHJ19c35Rj0+aCZNoo5Etr4qKM/rtUO8k6Qc=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WqgGNeLr3IyQl4wocKutrC9jZ+4ViI0ByOcHjLHevVY=
+			AtnYFbYy3PoYyuKcpizZoTPbg08erwJ3FCAK/SC0Pds=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XLXvVeB6qcWtG2TvdLwSi35pIMEMzuY3BY81p1qccYY=
+			2/eUhxSxhYSHD6tH9CJEMBx0Jll+//NIK6DaKkVbgv0=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OoquNigDf+ppm+Ol7r2jC8vp3hhSM/zJ1JIIiWkQZ0g=
+			IsoWnCiAHJ19c35Rj0+aCZNoo5Etr4qKM/rtUO8k6Qc=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WqgGNeLr3IyQl4wocKutrC9jZ+4ViI0ByOcHjLHevVY=
+			AtnYFbYy3PoYyuKcpizZoTPbg08erwJ3FCAK/SC0Pds=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XLXvVeB6qcWtG2TvdLwSi35pIMEMzuY3BY81p1qccYY=
+			2/eUhxSxhYSHD6tH9CJEMBx0Jll+//NIK6DaKkVbgv0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -407,21 +440,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			j8Bq3+Eny+biXOgTPiIuf9tmzOXOC3Cw2tCZ7HkzGeI=
+			h1Sx2mumS08F2eZRm0cYbzxIRi63V8zpgtuZcGLh+/w=
 			</data>
 		</dict>
 		<key>PaymentStatusVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ybg1Rnfnl56vDypjGNf2GCrGzmlYMNzZWlQ+F1yjKEQ=
+			6RF0hI+hViqGvL2O358QH186/kyafc36ig95Dj158ag=
 			</data>
 		</dict>
 		<key>PaymentVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ro8rZFkV00AE547vGO0B3EpbZAHNCmWrsmVC2FrSfBk=
+			DutXbK5sPvKJYf/M1P13RZ7ulys0Z11qHT1IxyZVjKQ=
 			</data>
 		</dict>
 		<key>SF-Pro-Text-Bold.otf</key>
@@ -484,7 +517,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lxkoW0sAtmrsOfRzPu1X4nRAaii1bF4PpXmFfizRivw=
+			0fRb4IElVrtBqiDKYbuk+rpQ9z+YfvsAlJDbX4K8NjY=
 			</data>
 			<key>optional</key>
 			<true/>
