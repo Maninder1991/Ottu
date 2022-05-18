@@ -11,14 +11,8 @@ Pod::Spec.new do |s|
     s.version      = "1.0.10"
     s.summary      = "The Ottu iOS SDK makes it quick and easy to build an excellent payment experience in your iOS app. We provide powerful and customizable UI screens and elements that can be used out-of-the-box to collect your user's payment details."
     s.description  = <<-DESC
-    ## Features
-
 **Simplified security**: We make it simple for you to collect sensitive data such as credit card numbers and remain PCI compliant.
-
 **Apple Pay**: We provide a [seamless integration with Apple Pay]().
-
-**SCA-ready**: The SDK automatically performs native [3D Secure authentication]() if needed to comply with [Strong Customer Authentication]() regulation in Europe.
-
     DESC
     s.homepage     = "https://github.com/Maninder1991/Ottu"
     s.license = { :type => 'Copyright', :text => <<-LICENSE
@@ -35,7 +29,7 @@ Pod::Spec.new do |s|
 
     s.ios.deployment_target  = '12.0'
     s.static_framework = true
-    s.dependency = 'SkeletonView'
+    s.dependency  'SkeletonView'
     s.user_target_xcconfig = {
       'SWIFT_INCLUDE_PATHS' => '"\$(PODS_ROOT)/Ottu/Ottu.xcframework"'
     }
