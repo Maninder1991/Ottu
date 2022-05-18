@@ -24,18 +24,6 @@
 		<data>
 		ScUapw8UTzemLY+L3c2IJH78LnU=
 		</data>
-		<key>Frameworks/SkeletonView.framework/Info.plist</key>
-		<data>
-		+yZiEPcYvyQu/hu4/XpY3+OLYnI=
-		</data>
-		<key>Frameworks/SkeletonView.framework/SkeletonView</key>
-		<data>
-		41uwD0Ph+C2JRcW5fstt4l2pp/U=
-		</data>
-		<key>Frameworks/SkeletonView.framework/_CodeSignature/CodeResources</key>
-		<data>
-		P/8w7di3qX05zpK6imDwOPfvLZg=
-		</data>
 		<key>Headers/Ottu-Swift.h</key>
 		<data>
 		NRLHBLW3w7HoargXMfPCs0ogBtg=
@@ -62,11 +50,11 @@
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		/us0aY5+okrq7Mt42H5hhXAxAxs=
+		5m5ir1zQqLD3UKNeKiRsVsT6Z/E=
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rqDKld6xiWcF/yhPK5j2U66jK/Q=
+		WOxiFiDH5D+NMQgrpgrTWOnW9YE=
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -74,11 +62,11 @@
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		/us0aY5+okrq7Mt42H5hhXAxAxs=
+		5m5ir1zQqLD3UKNeKiRsVsT6Z/E=
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		rqDKld6xiWcF/yhPK5j2U66jK/Q=
+		WOxiFiDH5D+NMQgrpgrTWOnW9YE=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -86,11 +74,11 @@
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		l6mC3PERIdLNY55al9yINWfLqWk=
+		r7UH9OKxYVW+RaPsuFWrzdNhM+8=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		UudvRWNKbxHgpOg8RnlCLqspMK8=
+		8MLhMWLTe1XOGzvsUbfh2zyZeEA=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -98,11 +86,11 @@
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		l6mC3PERIdLNY55al9yINWfLqWk=
+		r7UH9OKxYVW+RaPsuFWrzdNhM+8=
 		</data>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		UudvRWNKbxHgpOg8RnlCLqspMK8=
+		8MLhMWLTe1XOGzvsUbfh2zyZeEA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -110,7 +98,7 @@
 		</data>
 		<key>NewCardCell.nib</key>
 		<data>
-		2DOqIto7csBODXUkTB2ATixtEKI=
+		C0EbcC7GpqsCFm7yVPJUmtAogYg=
 		</data>
 		<key>PaymentStatusVC.nib</key>
 		<data>
@@ -118,7 +106,7 @@
 		</data>
 		<key>PaymentVC.nib</key>
 		<data>
-		ogBxIMZSZ3Un1HOY9G4VMvnnLPw=
+		V2yH2Z+VVb7SOUe+MxTR6AF34jE=
 		</data>
 		<key>SF-Pro-Text-Bold.otf</key>
 		<data>
@@ -296,27 +284,6 @@
 			Ae6NUmTt3ngRifROrQcdkoGx9GROA95GHg0n39+vL6I=
 			</data>
 		</dict>
-		<key>Frameworks/SkeletonView.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Yp5HqC2YCA2cCzRQvdj01LRLH1QI+E7FCdurpr8mm5c=
-			</data>
-		</dict>
-		<key>Frameworks/SkeletonView.framework/SkeletonView</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			AeBqAX3H1ZFlj2AzmNde/sDlDhiEDIZyrA12giLqrzc=
-			</data>
-		</dict>
-		<key>Frameworks/SkeletonView.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			O006Fa8Rmdvvni9oMr69wfvbyecoTloBFRYZXtJfx0M=
-			</data>
-		</dict>
 		<key>Headers/Ottu-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -356,14 +323,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			b6EfRwe9/yau7QuIhABRSQaUlE8zKOqLIFZZ3gVfisA=
+			Ns6Loh0ainxUUvyuDSRGy5lal5S7M/GXs23k4INeEx8=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wbvCKpq8NTLqajSJbOnLxbpWKYaF/0lHC7iSUyAFLLM=
+			EitF43BPS1Mhh8V71MaBj5x2EyyEB2TzZTFWIjZt0NM=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftdoc</key>
@@ -377,14 +344,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			b6EfRwe9/yau7QuIhABRSQaUlE8zKOqLIFZZ3gVfisA=
+			Ns6Loh0ainxUUvyuDSRGy5lal5S7M/GXs23k4INeEx8=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wbvCKpq8NTLqajSJbOnLxbpWKYaF/0lHC7iSUyAFLLM=
+			EitF43BPS1Mhh8V71MaBj5x2EyyEB2TzZTFWIjZt0NM=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -398,14 +365,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AtnYFbYy3PoYyuKcpizZoTPbg08erwJ3FCAK/SC0Pds=
+			xMXO4ntWjNC3/7W3WM8+ivo14321nEeb0PjuLsjLpH8=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2/eUhxSxhYSHD6tH9CJEMBx0Jll+//NIK6DaKkVbgv0=
+			He7WcNNtalHp0UJGG84ldkToOAQ66IM4vlAUXDSR9SQ=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftdoc</key>
@@ -419,14 +386,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AtnYFbYy3PoYyuKcpizZoTPbg08erwJ3FCAK/SC0Pds=
+			xMXO4ntWjNC3/7W3WM8+ivo14321nEeb0PjuLsjLpH8=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2/eUhxSxhYSHD6tH9CJEMBx0Jll+//NIK6DaKkVbgv0=
+			He7WcNNtalHp0UJGG84ldkToOAQ66IM4vlAUXDSR9SQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -440,7 +407,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			h1Sx2mumS08F2eZRm0cYbzxIRi63V8zpgtuZcGLh+/w=
+			OYWNgXqnXR47HrVaA3q0/aJ4GenXrXfYGPZ5YG8MMGg=
 			</data>
 		</dict>
 		<key>PaymentStatusVC.nib</key>
@@ -454,7 +421,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DutXbK5sPvKJYf/M1P13RZ7ulys0Z11qHT1IxyZVjKQ=
+			MpPGzGrCRGk/HRkhhlonNjOHt58LELudPOa/ClqRDOM=
 			</data>
 		</dict>
 		<key>SF-Pro-Text-Bold.otf</key>

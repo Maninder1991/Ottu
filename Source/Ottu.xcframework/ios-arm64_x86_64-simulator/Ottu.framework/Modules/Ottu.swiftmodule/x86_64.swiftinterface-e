@@ -4,12 +4,11 @@
 import Foundation
 @_exported import Ottu
 import PassKit
-import SkeletonView
 import Swift
 import UIKit
 import WebKit
 import _Concurrency
-@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class MaterialLoadingIndicator : Ottu.LBIndicator {
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class MaterialLoadingIndicator : LBIndicator {
   @_Concurrency.MainActor(unsafe) override open var color: UIKit.UIColor {
     @_Concurrency.MainActor(unsafe) get
     @_Concurrency.MainActor(unsafe) set
@@ -31,7 +30,7 @@ import _Concurrency
   @_Concurrency.MainActor(unsafe) override open func setupAnimation(in layer: QuartzCore.CALayer, size: CoreGraphics.CGSize)
   @objc deinit
 }
-@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class LBIndicator : UIKit.UIView, Ottu.IndicatorProtocol {
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class LBIndicator : UIKit.UIView, IndicatorProtocol {
   @_Concurrency.MainActor(unsafe) open var isAnimating: Swift.Bool
   @_Concurrency.MainActor(unsafe) open var radius: CoreGraphics.CGFloat
   @_Concurrency.MainActor(unsafe) open var color: UIKit.UIColor
@@ -63,7 +62,7 @@ public protocol Check_JB : AnyObject {
 @objc @_inheritsConvenienceInitializers @IBDesignable @_Concurrency.MainActor(unsafe) open class LoadingButton : UIKit.UIButton {
   @_Concurrency.MainActor(unsafe) public var isLoading: Swift.Bool
   @_Concurrency.MainActor(unsafe) public var shadowAdded: Swift.Bool
-  @_Concurrency.MainActor(unsafe) open var indicator: UIKit.UIView & Ottu.IndicatorProtocol
+  @_Concurrency.MainActor(unsafe) open var indicator: UIKit.UIView & IndicatorProtocol
   @objc @IBInspectable @_Concurrency.MainActor(unsafe) open var withShadow: Swift.Bool
   @objc @IBInspectable @_Concurrency.MainActor(unsafe) open var cornerRadius: CoreGraphics.CGFloat {
     @objc get
@@ -81,7 +80,7 @@ public protocol Check_JB : AnyObject {
   public enum ButtonStyle {
     case fill
     case outline
-    public static func == (a: Ottu.LoadingButton.ButtonStyle, b: Ottu.LoadingButton.ButtonStyle) -> Swift.Bool
+    public static func == (a: LoadingButton.ButtonStyle, b: LoadingButton.ButtonStyle) -> Swift.Bool
     public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
@@ -90,13 +89,13 @@ public protocol Check_JB : AnyObject {
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreGraphics.CGRect)
   @_Concurrency.MainActor(unsafe) public init(frame: CoreGraphics.CGRect = .zero, icon: UIKit.UIImage? = nil, text: Swift.String? = nil, textColor: UIKit.UIColor? = .white, font: UIKit.UIFont? = nil, bgColor: UIKit.UIColor = .black, cornerRadius: CoreGraphics.CGFloat = 12.0, withShadow: Swift.Bool = false)
   @available(iOS 13.0, tvOS 13.0, *)
-  @_Concurrency.MainActor(unsafe) convenience public init(icon: UIKit.UIImage? = nil, text: Swift.String? = nil, font: UIKit.UIFont? = nil, cornerRadius: CoreGraphics.CGFloat = 12.0, withShadow: Swift.Bool = false, buttonStyle: Ottu.LoadingButton.ButtonStyle)
+  @_Concurrency.MainActor(unsafe) convenience public init(icon: UIKit.UIImage? = nil, text: Swift.String? = nil, font: UIKit.UIFont? = nil, cornerRadius: CoreGraphics.CGFloat = 12.0, withShadow: Swift.Bool = false, buttonStyle: LoadingButton.ButtonStyle)
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func draw(_ rect: CoreGraphics.CGRect)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
-  @_Concurrency.MainActor(unsafe) open func showLoader(userInteraction: Swift.Bool, _ completion: Ottu.LBCallback = nil)
+  @_Concurrency.MainActor(unsafe) open func showLoader(userInteraction: Swift.Bool, _ completion: LBCallback = nil)
   @_Concurrency.MainActor(unsafe) open func showLoaderWithImage(userInteraction: Swift.Bool = false)
-  @_Concurrency.MainActor(unsafe) open func showLoader(_ viewsToBeHidden: [UIKit.UIView?], userInteraction: Swift.Bool = false, _ completion: Ottu.LBCallback = nil)
-  @_Concurrency.MainActor(unsafe) open func hideLoader(_ completion: Ottu.LBCallback = nil)
+  @_Concurrency.MainActor(unsafe) open func showLoader(_ viewsToBeHidden: [UIKit.UIView?], userInteraction: Swift.Bool = false, _ completion: LBCallback = nil)
+  @_Concurrency.MainActor(unsafe) open func hideLoader(_ completion: LBCallback = nil)
   @_Concurrency.MainActor(unsafe) public func fillContent()
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func layoutSubviews()
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func touchesBegan(_ touches: Swift.Set<UIKit.UITouch>, with event: UIKit.UIEvent?)
@@ -105,7 +104,7 @@ public protocol Check_JB : AnyObject {
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func touchesMoved(_ touches: Swift.Set<UIKit.UITouch>, with event: UIKit.UIEvent?)
   @objc deinit
 }
-extension UIKit.UIActivityIndicatorView : Ottu.IndicatorProtocol {
+extension UIKit.UIActivityIndicatorView : IndicatorProtocol {
   @_Concurrency.MainActor(unsafe) public var radius: CoreGraphics.CGFloat {
     get
     set
@@ -141,10 +140,10 @@ extension UIKit.UIView {
   @_Concurrency.MainActor(unsafe) public func centerSubView(_ view: UIKit.UIView)
 }
 public class Ottu {
-  public init(_ sessionId: Swift.String, merchantId: Swift.String, viewController: UIKit.UIViewController, delegate: Ottu.OttuDelegate, language: Swift.String)
+  public init(_ sessionId: Swift.String, merchantId: Swift.String, viewController: UIKit.UIViewController, delegate: OttuDelegate, language: Swift.String)
   @objc deinit
 }
 @available(iOS 13.0, *)
-extension Ottu.LoadingButton.ButtonStyle : Swift.Equatable {}
+extension LoadingButton.ButtonStyle : Swift.Equatable {}
 @available(iOS 13.0, *)
-extension Ottu.LoadingButton.ButtonStyle : Swift.Hashable {}
+extension LoadingButton.ButtonStyle : Swift.Hashable {}

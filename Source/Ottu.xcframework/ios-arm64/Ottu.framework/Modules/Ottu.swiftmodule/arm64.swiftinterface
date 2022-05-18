@@ -4,7 +4,6 @@
 import Foundation
 @_exported import Ottu
 import PassKit
-import SkeletonView
 import Swift
 import UIKit
 import WebKit
