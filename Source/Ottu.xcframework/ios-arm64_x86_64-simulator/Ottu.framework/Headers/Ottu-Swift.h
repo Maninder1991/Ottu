@@ -190,9 +190,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import CoreGraphics;
-@import Foundation;
-@import UIKit;
 #endif
 
 #pragma clang diagnostic ignored "-Wproperty-attribute-mismatch"
@@ -209,53 +206,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma clang attribute push(__attribute__((external_source_symbol(language="Swift", defined_in="Ottu",generated_declaration))), apply_to=any(function,enum,objc_interface,objc_category,objc_protocol))
 # pragma pop_macro("any")
 #endif
-
-@class NSCoder;
-
-SWIFT_CLASS("_TtC4Ottu11LBIndicator")
-@interface LBIndicator : UIView
-- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
-@end
-
-@class NSNumber;
-@class UIColor;
-@class UITouch;
-@class UIEvent;
-
-IB_DESIGNABLE
-SWIFT_CLASS("_TtC4Ottu13LoadingButton")
-@interface LoadingButton : UIButton
-/// Set to true to add shadow to the button.
-@property (nonatomic) IBInspectable BOOL withShadow;
-/// The corner radius of the button
-@property (nonatomic) IBInspectable CGFloat cornerRadius;
-/// Button background color
-@property (nonatomic, strong) IBInspectable UIColor * _Nonnull bgColor;
-- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
-- (void)drawRect:(CGRect)rect;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
-- (void)layoutSubviews;
-- (void)touchesBegan:(NSSet<UITouch *> * _Nonnull)touches withEvent:(UIEvent * _Nullable)event;
-- (void)touchesEnded:(NSSet<UITouch *> * _Nonnull)touches withEvent:(UIEvent * _Nullable)event;
-- (void)touchesCancelled:(NSSet<UITouch *> * _Nonnull)touches withEvent:(UIEvent * _Nullable)event;
-- (void)touchesMoved:(NSSet<UITouch *> * _Nonnull)touches withEvent:(UIEvent * _Nullable)event;
-@end
-
-
-SWIFT_CLASS("_TtC4Ottu24MaterialLoadingIndicator")
-@interface MaterialLoadingIndicator : LBIndicator
-@property (nonatomic) IBInspectable CGFloat lineWidth;
-@property (nonatomic) CGRect bounds;
-- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
-- (void)layoutSubviews;
-@end
-
-
-
-
-
 
 
 
@@ -461,9 +411,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import CoreGraphics;
-@import Foundation;
-@import UIKit;
 #endif
 
 #pragma clang diagnostic ignored "-Wproperty-attribute-mismatch"
@@ -480,53 +427,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma clang attribute push(__attribute__((external_source_symbol(language="Swift", defined_in="Ottu",generated_declaration))), apply_to=any(function,enum,objc_interface,objc_category,objc_protocol))
 # pragma pop_macro("any")
 #endif
-
-@class NSCoder;
-
-SWIFT_CLASS("_TtC4Ottu11LBIndicator")
-@interface LBIndicator : UIView
-- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
-@end
-
-@class NSNumber;
-@class UIColor;
-@class UITouch;
-@class UIEvent;
-
-IB_DESIGNABLE
-SWIFT_CLASS("_TtC4Ottu13LoadingButton")
-@interface LoadingButton : UIButton
-/// Set to true to add shadow to the button.
-@property (nonatomic) IBInspectable BOOL withShadow;
-/// The corner radius of the button
-@property (nonatomic) IBInspectable CGFloat cornerRadius;
-/// Button background color
-@property (nonatomic, strong) IBInspectable UIColor * _Nonnull bgColor;
-- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
-- (void)drawRect:(CGRect)rect;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
-- (void)layoutSubviews;
-- (void)touchesBegan:(NSSet<UITouch *> * _Nonnull)touches withEvent:(UIEvent * _Nullable)event;
-- (void)touchesEnded:(NSSet<UITouch *> * _Nonnull)touches withEvent:(UIEvent * _Nullable)event;
-- (void)touchesCancelled:(NSSet<UITouch *> * _Nonnull)touches withEvent:(UIEvent * _Nullable)event;
-- (void)touchesMoved:(NSSet<UITouch *> * _Nonnull)touches withEvent:(UIEvent * _Nullable)event;
-@end
-
-
-SWIFT_CLASS("_TtC4Ottu24MaterialLoadingIndicator")
-@interface MaterialLoadingIndicator : LBIndicator
-@property (nonatomic) IBInspectable CGFloat lineWidth;
-@property (nonatomic) CGRect bounds;
-- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
-- (void)layoutSubviews;
-@end
-
-
-
-
-
 
 
 
