@@ -12,7 +12,7 @@ The Ottu iOS SDK makes it quick and easy to build an excellent payment experienc
 
 **Native UI**: We provide native screens and elements to collect payment details. For example, [PaymentSheet]() is a prebuilt UI that combines all the steps required to pay - collecting payment details, billing details, and confirming the payment - into a single sheet that displays on top of your app.
 
-<img src="https://user-images.githubusercontent.com/89988962/153276097-9b3369a0-e732-45c4-96ec-ff9d48ad0fb6.png" alt="PaymentSheet" align="center"/>
+<img src="https://github.com/Maninder1991/screens/blob/main/Cardfree.png" alt="PaymentSheet" align="center"/>
 
 **Localized**: We support the following localizations: English, Arabic.
 
