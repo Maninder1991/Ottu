@@ -21,7 +21,7 @@ let package = Package(
         
         .binaryTarget(
             name: "Ottu",
-            path: "Sources/Ottu.xcframework"),
+            path: "Source/Ottu.xcframework"),
        
     ]
 )
