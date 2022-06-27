@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/Ottu-Swift.h</key>
 		<data>
-		RPH5p9pzK5M7Pwkbzw94u0yN42w=
+		r5sW0qUdImpLKzyDUI0zQa1TQz0=
 		</data>
 		<key>Headers/Ottu.h</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		n8cQ+ESzq5JxJona027T0Bcp8zI=
+		huQIZo2tF2tOfgfe9Xm4Xwh+w00=
 		</data>
 		<key>Mada.png</key>
 		<data>
@@ -40,53 +40,29 @@
 		<data>
 		7ka6LLHhgGW63G5NyCd+HA2k6vY=
 		</data>
-		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/Ottu.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		4ODlGnl6tOmxpEQlf3qW8+Zb/8g=
+		28A9jb9/ZOIBJOgq+KmZCcvCQVk=
 		</data>
-		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/Ottu.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		O++GJMz3FMplOjhDQxNYZ+fVcX4=
+		dBOQ0m+1TdTFcHODsWqQOJwhEsA=
 		</data>
-		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/Ottu.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		5A9wJjCItP0Qxkx7W4Br4DMe2zw=
+		7LQPxtrP5D926+zjzKKkIICUE+o=
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		4ODlGnl6tOmxpEQlf3qW8+Zb/8g=
+		28A9jb9/ZOIBJOgq+KmZCcvCQVk=
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		O++GJMz3FMplOjhDQxNYZ+fVcX4=
+		dBOQ0m+1TdTFcHODsWqQOJwhEsA=
 		</data>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		5A9wJjCItP0Qxkx7W4Br4DMe2zw=
-		</data>
-		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
-		<data>
-		LlCo/EKbpDiKZLBCgbu0BvN/0ak=
-		</data>
-		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
-		<data>
-		iOp1cowacSDqKqzWNVp1dnqwOgY=
-		</data>
-		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
-		<data>
-		4OztEKzg4m3TF9k1OLi3qrw4sVY=
-		</data>
-		<key>Modules/Ottu.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		LlCo/EKbpDiKZLBCgbu0BvN/0ak=
-		</data>
-		<key>Modules/Ottu.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		iOp1cowacSDqKqzWNVp1dnqwOgY=
-		</data>
-		<key>Modules/Ottu.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		4OztEKzg4m3TF9k1OLi3qrw4sVY=
+		7LQPxtrP5D926+zjzKKkIICUE+o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -277,7 +253,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mmef6m44dS95ZW2Y7UYelPGHgkeQL5olvn12dFjy1SE=
+			/KRIyNTftZDkvIiVlM/FGOGrHb9ZP4CW7GRYVkyPvPs=
 			</data>
 		</dict>
 		<key>Headers/Ottu.h</key>
@@ -301,88 +277,46 @@
 			oT6/VYQCb+uTD/B126mFX3mNPUfYAT9bHWiCf2IStKs=
 			</data>
 		</dict>
-		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/Ottu.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O8xx5RYv7u/C6vecvoSui7DcwS8QmUAB0H23uFdda7k=
+			9Qw5msT3EdkMG4D7bl68kcTGm00jeveiPfkKs0+ki+8=
 			</data>
 		</dict>
-		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/Ottu.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V9nBqJZp0zqUau5KtCeGlGa/hYV+YIKGMrpMMUxeThY=
+			/9lk1xofPBPAW+GJ1KMU68UbLki3FpCTqr9haOYD1QI=
 			</data>
 		</dict>
-		<key>Modules/Ottu.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/Ottu.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			32q5Z4e0YHNMGikHDozztlheozkAZBXTw3S86S/rWr8=
+			l1L0TxLPfr7YgFAO+LKbb+vD42rUvrcNBkZ4lxQdjoU=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O8xx5RYv7u/C6vecvoSui7DcwS8QmUAB0H23uFdda7k=
+			9Qw5msT3EdkMG4D7bl68kcTGm00jeveiPfkKs0+ki+8=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V9nBqJZp0zqUau5KtCeGlGa/hYV+YIKGMrpMMUxeThY=
+			/9lk1xofPBPAW+GJ1KMU68UbLki3FpCTqr9haOYD1QI=
 			</data>
 		</dict>
 		<key>Modules/Ottu.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			32q5Z4e0YHNMGikHDozztlheozkAZBXTw3S86S/rWr8=
-			</data>
-		</dict>
-		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OoquNigDf+ppm+Ol7r2jC8vp3hhSM/zJ1JIIiWkQZ0g=
-			</data>
-		</dict>
-		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LsoZ5uv5Lb4agD5VVWNCG3uzQFLAZfz4SXRhsYOsNcU=
-			</data>
-		</dict>
-		<key>Modules/Ottu.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			frzwQeZWzeaNYSRwMHs7yEiVbVVD6eaeriw9hZNwn/M=
-			</data>
-		</dict>
-		<key>Modules/Ottu.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OoquNigDf+ppm+Ol7r2jC8vp3hhSM/zJ1JIIiWkQZ0g=
-			</data>
-		</dict>
-		<key>Modules/Ottu.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LsoZ5uv5Lb4agD5VVWNCG3uzQFLAZfz4SXRhsYOsNcU=
-			</data>
-		</dict>
-		<key>Modules/Ottu.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			frzwQeZWzeaNYSRwMHs7yEiVbVVD6eaeriw9hZNwn/M=
+			l1L0TxLPfr7YgFAO+LKbb+vD42rUvrcNBkZ4lxQdjoU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
