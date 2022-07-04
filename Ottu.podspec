@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name         = "Ottu"
-    s.version      = "1.0.16"
+    s.version      = "1.0.18"
     s.summary      = "The Ottu iOS SDK makes it quick and easy to build an excellent payment experience in your iOS app."
     s.description  = <<-DESC
 **Simplified security**: We make it simple for you to collect sensitive data such as credit card numbers and remain PCI compliant.
@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
     DESC
     s.homepage     = "https://github.com/Maninder1991/Ottu"
     s.license = { :type => 'Copyright', :text => <<-LICENSE
-                   Copyright 2020
+                   Copyright 2022
                    Permission is granted to Ottu
                   LICENSE
                 }
